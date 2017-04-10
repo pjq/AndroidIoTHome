@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AndroidIoTHome</string>
+
+    <string name="title_activity_weather_monitor">Weather Station</string>
+    <string name="pms5003t_humidity">Humidity</string>
+    <string name="pms5003t_temperature">Temperature</string>
+    <string name="pms5003t_um10">10um particle(per 0.1L)</string>
+    <string name="pms5003t_um5">5um particle(per 0.1L)</string>
+    <string name="pms5003t_um2_5">2.5um particle(per 0.1L)</string>
+    <string name="pms5003t_um1">2.5umparticle(per 0.1L)</string>
+    <string name="pms5003t_um05">0.5um particle(per 0.1L)</string>
+    <string name="pms5003t_um03">0.3um particle(per 0.1L)</string>
+    <string name="pms5003t_pm10">PM10 (CF=1,standard particle)</string>
+    <string name="pms5003t_pm5">PM5 (atmosphere)</string>
+    <string name="pms5003t_pm25">PM2.5 (atmosphere)</string>
+    <string name="pms5003t_pm5CF1">PM5 (CF=1, standard particle)</string>
+    <string name="pms5003t_pm25CF1">PM2.5 (CF=1, standard particle)</string>
+    <string name="pms5003t_pm10CF1">PM10 (CF=1, standard particle)</string>
+</resources>

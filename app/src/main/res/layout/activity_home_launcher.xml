@@ -1,0 +1,27 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#0099cc"
+    android:orientation="horizontal"
+    tools:context="me.pjq.androidiothome.HomeLauncherActivity">
+
+    <TextView
+        android:id="@+id/info"
+        android:layout_width="0dip"
+        android:layout_height="match_parent"
+        android:layout_weight="1.0"
+        android:textColor="#33b5e5"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/values"
+        android:layout_width="0dip"
+        android:layout_height="match_parent"
+        android:layout_weight="1.0"
+        android:textColor="@android:color/white"
+        android:textSize="32sp"
+        android:textStyle="bold" />
+
+</LinearLayout>
